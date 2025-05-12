@@ -1,0 +1,40 @@
+\documentclass[a4paper]{article}
+\usepackage{amsmath}
+\usepackage{cite}
+\title{Cricket's Analytical Revolutions}
+\author{name}
+\begin{document}
+\maketitle
+\section{Introduction}
+Due to the rapid progress in technology, there has been a staggering accumulation of data in all field of
+studies. To decipher this vast data landscape, the necessity for analysis, along with the use of modern analytical
+instruments and methodologies, has seen a significant surge. Analysts use these analytical tools to extract
+unrecognized patterns from the past dataset.Similarly, sports data analysis is also growing fast. In the evergrowing arena of sports, the incorporation of analytics has turned out to be a pivotal point, by transforming theway teams plan their strategies, players training, and fans involvement with the game. In the realm of sports,
+analytics hold a vital role in addressing challenges and competitions associated with every game.\\
+
+These include,but are not limited to, the assessment and ranking of players based on their unique skills, the formation of teams
+with a harmonious blend of these skills, and the ranking of these teams. They also aid in contract negotiations,
+the appraisal of sports enterprises and their prospective revenue sources, and the orchestration of both physical
+and mental training regimes.Moreover, they contribute to the formulation of strategies aimed at securing
+victories in games and tournaments, the evaluation of the efficacy of coaches and referees, and the medical and
+actuarial examination of sports injuries for health and insurance purposes.
+\begin{thebibliography}{15}
+    \bibitem{ref1}Ahmed, F., Deb, K., And Jindal, A. (2013). Multi-Objective Optimization And Decision-Making Approaches To Cricket TeamSelection. Applied Soft Computing, 13(1), 402-414.
+    \bibitem{ref2}Allsopp, P.E. And Clarke, S.R. (2004). Rating Teams AndAnalysing Outcomes In One-Day And Test Cricket. Journal Of TheRoyal Statistical Society, Series A, 167, 657-667.
+    \bibitem{ref3}Allsopp, P. (2005). Measuring Team Performance And Modelling The Home Advantage Effect In Cricket [Ph.D. Thesis,
+Swinburne University Of Technology, Melbourne, Australia].\
+\bibitem{ref4}Amin, G. R., And Sharma, S. K. (2014). Cricket Team Selection Using Data Envelopment Analysis. European Journal Of Sport
+Science, 14(1), S369-S376.
+\bibitem{ref5}Armstrong, J And Willis, R J (1993). Scheduling The Cricket World Cup: A Case Study. The Journal Of The Operational
+Research Society, 44(11), 1067-1072.
+\bibitem{ref6}Bailey, M., And Clarke, S. R. (2006). Predicting The Match Outcome In One Day International Cricket Matches, While The
+Game Is In Progress. Journal Of Sports Science And Medicine, 5(4), 480–487.
+\bibitem{ref7}Beaudoin, D., & Swartz, T. (2003). The Best Batsmen And Bowlers In One-Day Cricket. South African Statistical Journal, 37,203–222.
+\bibitem{ref8}Bhaskar, V. (2009). Rational Adversaries? Evidence From Randomised Trials In One Day Cricket. The Economic Journal, 119(534), 1-23.
+\bibitem{ref9}Bhattacharjee, D. And Lemmer, H.H. (2016). Quantifying The Pressure on The Teams Batting Or Bowling In The Second
+Innings Of Limited Overs Cricket Matches. International Journal of Sports Science And Coaching, 11(5), 683-692
+\bibitem{ref10}Borooah, V. K., And Mangan, J. E. (2010). The “Bradman Class”: An Exploration Of Some Issues In The Evaluation Of
+Batsmen For Test Matches, 1877–2006. Journal Of Quantitative Analysis In Sports, 6(3), 1-19.
+    
+\end{thebibliography}
+\end{document}

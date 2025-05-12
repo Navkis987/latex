@@ -1,0 +1,30 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{graphicx}
+\usepackage[margin=1in]{geometry}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{caption}
+
+\begin{document}
+
+\begin{center}
+    \Large\textbf{Student Marks List}
+\end{center}
+
+\vspace{0.5cm}
+
+\begin{table}[h!]
+\centering
+\begin{tabular}{|c|c|l|c|c|c|}
+\hline
+\textbf{SI} & \textbf{USN} & \textbf{Student Name} & \textbf{Java} & \textbf{LaTeX} & \textbf{Python} \\
+\hline
+1 & 4YG22CS001 & miya & 89 & 60 & 90 \\
+2 & 4YG22CS002 & Tom            & 78 & 45 & 98 \\
+3 & 4YG22CS003 & Jerry          & 67 & 55 & 59 \\
+\hline
+\end{tabular}
+\caption{Student Marks List}
+\end{table}
+
+\end{document}

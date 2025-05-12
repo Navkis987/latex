@@ -1,0 +1,16 @@
+\documentclass{article}
+\usepackage{amsmath}
+\begin{document}
+\section*{Equation 1}
+\begin{align}
+   x&=\frac{-b \pm \sqrt{b^2 - 4ac}}{2a}\notag\\[0.5cm]
+    &= \frac{-2 \pm \sqrt{2^2 - 4*(1)*(-8)}}{2*1}\notag\\[0.5cm]
+    &=\frac{-2 \pm \sqrt{4 + 32}}{2} \notag
+\end{align}
+\section*{Equation 2}
+\begin{align}
+    \varphi_{\sigma}^{\lambda} A_{t} &=\sum_{\ph \in c_{t}}\text{sgn}(\pi) \varphi_{\sigma}^{\lambda} \varphi_{\pi}^{\lambda}\notag \\[0.5cm]
+    &=\sum_{\tau \in c_{\sigma t}}\text{sgn}(\sigma^{-1}\tau \sigma)\varphi_{\sigma}^{\lambda}\varphi_{\sigma^{-1}\tau\sigma}^{\lambda}\notag\\[0.5cm]
+    &=A_{\sigma t}\varphi_{\sigma}^{\lambda}\notag
+\end{align}
+\end{document}

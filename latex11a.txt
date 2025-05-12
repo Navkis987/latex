@@ -1,0 +1,18 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{algorithm}
+\usepackage{algorithmic}
+
+\begin{document}
+
+\begin{algorithm}
+    \caption{Addition of two Integers}
+    
+\end{algorithm}
+\begin{algorithmic}
+    \STATE \textbf{Input}:Two Integers $a$,$b$
+    \STATE \textbf{Output}:Sum of $a$ and $b$
+    \STATE $sum \gets a+b $ ;
+    \RETURN$sum$
+    
+\end{algorithmic}
+\end{document}

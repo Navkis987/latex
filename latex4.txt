@@ -1,0 +1,60 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[margin=1in]{geometry}
+\usepackage{setspace}
+\usepackage{titlesec}
+\usepackage{titling}
+\usepackage{parskip}
+\usepackage{ragged2e}
+
+\begin{document}
+
+\begin{center}
+    \Large\textbf{DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING}
+\end{center}
+
+\vspace{2cm}
+
+\begin{center}
+    \LARGE\textbf{CERTIFICATE}
+\end{center}
+
+\vspace{1cm}
+
+\begin{justify}
+\large
+This is to certify that the Project Work entitled \textbf{“Latex Lab”} carried out by \textbf{amomuys (4YG23CS000)}, in the partial fulfillment of IV Semester to award the Bachelor Degree in Computer Science and Engineering during the year \textbf{2024–2025}.
+\end{justify}
+
+\vspace{2.5cm}
+
+\noindent
+\begin{minipage}[t]{0.45\textwidth}
+\centering
+\rule{6cm}{0.4pt} \\
+Signature of the Guide \\
+Divakar T K
+\end{minipage}
+\hfill
+\begin{minipage}[t]{0.45\textwidth}
+\centering
+\rule{6cm}{0.4pt} \\
+Signature of HOD \\
+Dr. Dinesha H A
+\end{minipage}
+
+\vspace{2.5cm}
+
+\noindent
+\textbf{Name and Signature of the Examiners}
+
+\vspace{1cm}
+
+\noindent
+1. \rule{12cm}{0.4pt}
+
+\vspace{1cm}
+
+\noindent
+2. \rule{12cm}{0.4pt}
+
+\end{document}

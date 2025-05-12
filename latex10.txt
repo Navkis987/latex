@@ -1,0 +1,22 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage{tikz}
+
+\begin{document}
+\centering
+\tikzstyle{level 1}=[level distance=2cm, sibling distance=4cm]
+\tikzstyle{level 2}=[level distance=2cm, sibling distance=2cm]
+
+\begin{tikzpicture}[grow=down,sloped]
+    \node{Animals}
+    child{
+        node{Wild}
+        child{node{Tiger}}
+        child{node{Lion}}
+    }
+    child{
+        node{Pet}
+        child{node{Cat}}
+        child{node{Dog}}
+    };
+\end{tikzpicture}
+\end{document}

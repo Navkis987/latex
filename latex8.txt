@@ -1,0 +1,57 @@
+\documentclass{article}
+\usepackage{amsthm}
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+
+\begin{document}
+
+\section{Maths}
+
+\begin{theorem}
+The sum of the angles in a triangle is 180^\circ.
+\end{theorem}
+
+\begin{definition}
+An equilateral triangle has three equal sides and three equal angles.
+\end{definition}
+
+\begin{corollary}
+An equilateral triangle is also equiangular.
+\end{corollary}
+
+\begin{lemma}
+In a triangle, the sum of the two shorter sides is greater than the length of the longest side.
+\end{lemma}
+
+\end{document}\documentclass{article}
+\usepackage{amsthm}
+
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{lemma}[theorem]{Lemma}
+
+\begin{document}
+
+\section{Maths}
+
+\begin{theorem}
+The sum of the angles in a triangle is 180^\circ.
+\end{theorem}
+
+\begin{definition}
+An equilateral triangle has three equal sides and three equal angles.
+\end{definition}
+
+\begin{corollary}
+An equilateral triangle is also equiangular.
+\end{corollary}
+
+\begin{lemma}
+In a triangle, the sum of the two shorter sides is greater than the length of the longest side.
+\end{lemma}
+
+\end{document}

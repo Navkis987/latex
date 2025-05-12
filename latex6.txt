@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage{graphicx}
+\usepackage{subcaption}
+\usepackage{lipsum}
+
+\begin{document}
+
+\section{Navkis College}
+
+Nam dui ligula, fringilla a, euismod sodales, sollicitudin vel, wisi. Morbi auctor lorem non justo. Nam lacus libero, pretium at, lobortis vitae, ultricies et, tellus. Donec aliquet, tortor sed accumsan bibendum, erat ligula aliquet magna, vitae ornare odio metus a mi. Morbi ac orci et nisl hendrerit mollis. Suspendisse ut massa. Cras nec ante. Pellentesque a nulla. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aliquam tincidunt urna. Nulla ullamcorper vestibulum turpis. Pellentesque cursus luctus mauris.
+
+\begin{figure}[h!]
+    \centering
+    \begin{subfigure}[b]{0.4\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{file-5huJ2fDKp9cHqqKw8n5y6v} % Replace with your actual image path
+        \caption{NCE Logo}
+    \end{subfigure}
+    \hfill
+    \begin{subfigure}[b]{0.4\textwidth}
+        \centering
+        \includegraphics[width=\textwidth]{file-5huJ2fDKp9cHqqKw8n5y6v} % Replace with your actual image path
+        \caption{NCE Logo}
+    \end{subfigure}
+    \caption{COLLEGE LOGO}
+\end{figure}
+
+\end{document}

@@ -1,0 +1,25 @@
+\documentclass[12pt]{article}
+\usepackage{geometry}
+\geometry{margin=1in}
+\usepackage{parskip}
+\usepackage{setspace}
+\usepackage{titling}
+\usepackage{fancyhdr}
+
+\title{Navkis College of Engineering, Hassan}
+\author{name\\\texttt{navkisbackbancher@gmail.com}}
+\date{February 28, 2025}
+
+\pagestyle{fancy}
+\fancyhf{}
+\rhead{\thepage}
+
+\begin{document}
+
+\maketitle
+
+\section*{Abstract}
+
+Navkis College of Engineering, Hassan is the latest initiative from the House of M. S. Ramaiah, a pioneer in private education in Karnataka, who established the renowned Ramaiah Group of Institutions ranging from Medical Sciences to Ramaiah Institute of Technology, Bengaluru to the other Institutions of repute leading to a University. The inspiration and philosophy of Dr. M. S. Ramaiah has been the guiding light of his son, Sri. M. R. Anandaram, who is the Chairman of the Trust. NCE Hassan has been established under his leadership as a world-class technical institution that ensures that its graduate engineers are agile and well equipped to be able to adapt to the dynamic professional environment. Navkis College of Engineering is a part of the Navkis Group of Institutions, a trustworthy provider in quality education across Karnataka. The Navkis group of Institutions has under its fold today 8 different Campuses of excellence ranging from Pre-schooling to Schools to PU Colleges and professional colleges like NCE.
+
+\end{document}

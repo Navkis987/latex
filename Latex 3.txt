@@ -1,0 +1,30 @@
+\documentclass[a4paper,12pt]{report}
+\usepackage{geometry}
+\usepackage{xcolor}
+\usepackage{graphicx}
+\geometry{left=0.5in,right=0.5in,bottom=0.5in,top=0.5in}
+\begin{document}
+\centering
+\begin{titlepage}
+    \textsc{\Large \textcolor{red} {Visvesvaraya Technological University}}\\[0.2cm]
+    \Large{"Jnana Sangama",Belgavi-590018}\\[0.4cm]
+    \includegraphics[width=0.2\textwidth]{download.jpg}\\[0.5cm]
+    \Huge\textbf{Project Report \\ on \\ AICTE ACTIVITY}\\[0.5cm]
+    \large{Submitted in the partial Fulfillment of the Degree of\\Bachelor of Engineering in Computer Science and Engineering}\\[1cm]
+
+    
+    \textbf{Submitted By}\\
+    Sinchana Ravi Gowda\\
+    USN:4YG23CS100\\[1cm]
+    \textbf{Under the guidance of}\\
+    Divakar T K\\
+    Asst.Professor\\[0.5cm]
+    \begin{center}
+      \includegraphics[width=0.3\textwidth]{nce_logo.jpg}  
+    \end{center}
+    
+    \Large{DEPARTMENT OF COMPUTER SCIENCE AND ENGINEERING}\\
+    \Large{Navkis College of Enigneering,Hassan-590000}\\
+    \Large{2024-2025}
+\end{titlepage}
+\end{document}

@@ -1,0 +1,13 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[linesnumbered,ruled]{algorithm2e}
+
+\begin{document}
+
+\begin{algorithm}
+    \caption{Addition of two Integers}
+    \KwIn{$a$,$b$}
+    \KwOut{Sum of $a$ and $b$}
+    $sum \gets a+b$;
+    \Return $sum$
+\end{algorithm}
+\end{document}
