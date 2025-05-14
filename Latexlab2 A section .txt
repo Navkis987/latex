@@ -1,0 +1,9 @@
+\documentclass[a4paper,12pt]{article}
+\title{Navkis College}
+\author{NAME \\Email: ×××××××××××.2005@gmail.com\\VTU University}
+\begin{document}
+\maketitle
+\begin{abstract}
+    Navkis College of Engineering, Hassan is the latest initiative from the House of M S Ramaiah, a pioneer in private education in Karnataka,who established the renowned Ramaiah Group of Institutions ranging from Medical Sciences to Ramaiah Institute of Technology, Bengaluru to the other Institutions of repute leading to a University.The inspiration and philosophy of Dr. M.S Ramaiah, has been the guiding light of his son, Sri. M.R Anandaram who is the Chairman of the Trust. NCE Hassan has been established under his leadership as a world-class technical institution that ensures that its graduate engineers are agile and well equipped to be able to adapt to the dynamic professional environment.
+\end{abstract}
+\end{document}
